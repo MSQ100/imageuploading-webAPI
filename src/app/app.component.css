@@ -1,0 +1,10 @@
+.container form{
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    width: 420px;
+    height: 170px;
+   
+}
+input{
+    cursor: pointer;
+}
